@@ -36,3 +36,9 @@ gama[3] = thetas[3]
 acf_teo = gama / gama0
 acf_teo
 acf_sim[1:3]
+
+
+# Item C
+par(mfrow=c(1, 1))
+pacf_sim = Pacf(Y)
+
