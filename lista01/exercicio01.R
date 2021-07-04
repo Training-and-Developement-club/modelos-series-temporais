@@ -2,7 +2,7 @@
 ## Engenharia Financeira
 ##
 ## EGF004 - Modelos de Previsão em Séries Temporais
-## Paulo Henrique Freitas GuimarÃ£es
+## Paulo Henrique Freitas Guimarães
 
 ## Exercício 1
 
