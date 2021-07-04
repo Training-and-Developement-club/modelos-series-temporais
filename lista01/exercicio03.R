@@ -6,6 +6,8 @@
 
 ## Exercício 3
 
+# Importações
+library(forecast)
 
 # Limpando a memória
 rm(list=ls(all=TRUE))
@@ -57,4 +59,9 @@ for (t in 6:10000)
 rc = ts(rc)
 par(mfrow=c(1,1))
 plot(rc, type="s")
+
+
+# Item D
+par(mfrow=c(1, 1))
+acf_sim = Acf(rc)
 
