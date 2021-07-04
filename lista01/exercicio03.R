@@ -65,3 +65,7 @@ plot(rc, type="s")
 par(mfrow=c(1, 1))
 acf_sim = Acf(rc)
 
+
+# Item E
+par(mfrow=c(1, 1))
+pacf_sim = Pacf(rc)
