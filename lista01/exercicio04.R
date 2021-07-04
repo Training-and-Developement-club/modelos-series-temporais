@@ -1,3 +1,10 @@
+## Programa de Educação Continuada Poli-USP
+## Engenharia Financeira
+##
+## EGF004 - Modelos de Previsão em Séries Temporais
+## Paulo Henrique Freitas Guimarães
+
+## Exercício 4
 
 # Importações
 library(forecast)
