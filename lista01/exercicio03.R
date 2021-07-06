@@ -28,7 +28,7 @@ modulo_autovalores
 # Item B
 a = rep(0, 30)
 a[3] = 1
-c = 0.0047
+c = 0.009
 r = rep(0, 30)
 r[1] = c + a[1]
 r[2] = c + phi[1]*r[1] + a[2]
